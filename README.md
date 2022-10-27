@@ -1,2 +1,2 @@
-# -pseudoc-digo
+# -pseudocodigo
 a
