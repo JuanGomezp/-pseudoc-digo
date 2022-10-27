@@ -1,2 +1,4 @@
 # -pseudocodigo
-a
+Class Botilleria 
+Lista
+Articulos
