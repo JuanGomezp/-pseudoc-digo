@@ -2,13 +2,13 @@
 Class liquor store
 ##Atributos
 products #Productos y los tipos de productos 
-price #Precio
+price #Precio de los productos 
 quantity Available #Cantidad disponibles
 barcode #Barra de codigos
 hour #Hora de la compra
 discount #descuento"promo"
 iva #el iva 
-  
+money returned to the customer #el vuelto
   
   
   
