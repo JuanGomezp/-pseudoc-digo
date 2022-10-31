@@ -30,4 +30,4 @@ iva #calcular el iva segun el precio de los productos adquiridos
 turned #El vuelto segun el precio de los productos 
 
 
-  ##Fin sección Métodos##
+  ##Fin sección Métodos#
