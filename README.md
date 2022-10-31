@@ -10,8 +10,10 @@ hour #Hora de la compra
 discount #descuento"promo"
 iva #el iva 
 money_returned_to_the_customer #el vuelto
-  
-  
+product_description #Describir cual es el producto que compro
+total #Precio total de la compra
+seller #vendedor
+sequence #Numero de la transacción
   
   
   
