@@ -3,12 +3,13 @@ Class liquor store
 ##Atributos
 products #Productos y los tipos de productos 
 price #Precio de los productos 
-quantity Available #Cantidad disponibles
+quantity_products #Cantidad de productos que el cliente va a llevar
+quantityAvailable #Cantidad disponibles
 barcode #Barra de codigos
 hour #Hora de la compra
 discount #descuento"promo"
 iva #el iva 
-money returned to the customer #el vuelto
+money_returned_to_the_customer #el vuelto
   
   
   
@@ -25,6 +26,8 @@ change_price #cambiar el precio
 change_amount #cambiar la cantidad
 total_price #precio total 
 shopping_time #cambiar la hora segun la hora que se adquiere el producto 
-iva# calcular el iva segun el precio de los productos adquiridos
-  
+iva #calcular el iva segun el precio de los productos adquiridos
+turned #El vuelto segun el precio de los productos 
+
+
   ##Fin sección Métodos##
